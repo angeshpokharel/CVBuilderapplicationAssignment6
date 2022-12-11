@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CVBuilderApplicationAssignment6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="work">Work</string>
+    <string name="contact">Contact</string>
+
+    <string name="cv">CV</string>
+
+    <string name="add">Add</string>
+
+    <string name="whatsapp">Whats App</string>
+    <string name="gmail">Gmail</string>
+    <string name="telegram">Telegram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="cover_photo">Cover Photo</string>
+
+    <string name="name">Angesh Pokharel</string>
+    <string name="position">Senior FullStack Engineer</string>
+
+    <string name="career_note">Angesh Pokharel</string>
+    <string name="career_note_desc"><b>Hi! Everyone</b>, my name is Angesh Pokharel and I\'ve been working as a Senior FullStack Engineer at Kforce Inc. I am from Iowa, and I’ve been working in this role with much inclined towards java backend..</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_desc"><b>Language: </b>Java, C++, Python, Bash\n<b>Web: </b>Servlets, JSP, JavaScript, jQuery, Ajax, Node.js, React.js, Redux.js, HTML5, CSS3\n<b>Frameworks: </b>Express Framework, Angular, Spring (Boot, MVC, Data, Security, Cloud, AOP, IOC-Dependency Injection), Hibernate\n<b>Databases: </b>Google Spanner,MySQL, SQLite, MongoDB \n<b>Tools: </b>Azure, Bootstrap, Eclipse, VSCode, STS, IntelliJ, GitHub Desktop, Docker, Workbench (SQL)\n<b>Design Patterns:</b>Singleton, Factory, Observer, Session, Session Factory, Proxy, Template\n</string>
+
+    <string name="about_me_desc">Accomplished Java developer with history of success playing key role at all phases of software development lifecycle. More than 4 years of hands-on experience in full stack development using Java, Servlets, JSP, Angular, Node.js, Express, SQL, RESTful, and React.Advanced technical experience as Native Android and iOS developer as well as enterprise web developer for e-commerce platforms and companies. Personable team player with talent for collaboration with diverse cross-functional teams. </string>
+
+    <string name="education">Education</string>
+    <string name="my_college">My College</string>
+    <string name="certification">Certification</string>
+
+    <string name="my_contacts">My Contacts</string>
+
+    <string name="information_to_share">
+        Name: Angesh Pokharel
+        LinkedIn Profile: https://www.linkedin.com/in/angeshpokharel/
+    </string>
+
+    <string name="email">angeshpokharel@gmail.com</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/angeshpokharel/</string>
+    <string name="github_profile">https://github.com/angeshpokharel/</string>
+    <string name="github_resume">https://github.com/angeshpokharel/</string>
+
+
+    <string name="login">login</string>
+    <string name="enter_email">Enter your email here…</string>
+    <string name="enter_password">Enter your password here…</string>
+
+</resources>
