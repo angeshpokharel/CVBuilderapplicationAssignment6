@@ -56,7 +56,7 @@ class ContactFragment : Fragment(R.layout.fragment_contact), OnClickListener {
     }
 
     private fun onResumeClicked() {
-        openWebUrl(getString(R.string.github_profile))
+        openWebUrl(getString(R.string.github_resume))
     }
 
     private fun openWebUrl(url: String) {

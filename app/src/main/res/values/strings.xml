@@ -8,11 +8,11 @@
     <string name="work">Work</string>
     <string name="contact">Contact</string>
 
-    <string name="cv">CV</string>
+    <string name="cv">CV App</string>
 
     <string name="add">Add</string>
 
-    <string name="whatsapp">Whats App</string>
+    <string name="whatsapp">WhatsApp</string>
     <string name="gmail">Gmail</string>
     <string name="telegram">Telegram</string>
     <string name="linkedin">LinkedIn</string>
@@ -34,7 +34,7 @@
 
     <string name="my_contacts">My Contacts</string>
 
-    <string name="information_to_share">
+    <string name="linkedin_share">
         Name: Angesh Pokharel
         LinkedIn Profile: https://www.linkedin.com/in/angeshpokharel/
     </string>
@@ -42,7 +42,7 @@
     <string name="email">angeshpokharel@gmail.com</string>
     <string name="linkedin_profile">https://www.linkedin.com/in/angeshpokharel/</string>
     <string name="github_profile">https://github.com/angeshpokharel/</string>
-    <string name="github_resume">https://github.com/angeshpokharel/</string>
+    <string name="github_resume">https://github.com/angeshpokharel/CVBuilderapplicationAssignment6/blob/main/app/src/main/res/Angesh%20Resume.pdf</string>
 
 
     <string name="login">login</string>
